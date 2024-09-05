@@ -37,7 +37,7 @@ If you want to help me develop this script you are welcome
 # Contact me 
 
 <a href="https://www.instagram.com/zl1_310/" style = "border-radius: 45px ">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDSc2kBojlcAsXp4YYp4MJQHHizDnPuvP7g&s" alt="Instagram Icon" style="width: 50px; height: 50px; border-radius: 45px ;" />
+ instagram
 </a> 
 
 
